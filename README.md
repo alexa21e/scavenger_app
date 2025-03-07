@@ -1,16 +1,7 @@
-# flutter_application_1
+# Scavenger hunt app
 
-A new Flutter project.
+This flutter app is meant for creating and organizing scavenger hunts. It was implemented during the laboratory hours of the Mobile Computing course.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For the moment, the main.dart file can be found in the lib folder as well as all the others screens.
